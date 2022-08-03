@@ -1,1 +1,1 @@
-# Medical-Image-Processing
+# Medical Signal and Image Processing
